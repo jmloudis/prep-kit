@@ -1,4 +1,4 @@
-package com.northstarcomm.javaprep.problems.printerproblem;
+package com.northstarcomm.javaprep.problems.interview.printerproblem;
 
 public class Machine {
 

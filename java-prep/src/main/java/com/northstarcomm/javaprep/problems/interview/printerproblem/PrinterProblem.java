@@ -1,6 +1,5 @@
-package com.northstarcomm.javaprep.problems.printerproblem;
+package com.northstarcomm.javaprep.problems.interview.printerproblem;
 
-import java.io.*;
 import java.util.*;
 import java.util.concurrent.CompletableFuture;
 
